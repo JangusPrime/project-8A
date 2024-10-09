@@ -3,7 +3,7 @@ body body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4; /* You can keep this as a fallback */
-    background-image: url("solar-system.jpg"); /* Replace with your image filename */
+    background-image: url("https://images.alphacoders.com/125/1258216.jpg"); /* Replace with your image filename */
     background-size: cover; /* Or 'contain' if you don't want to crop */
     background-repeat: no-repeat; 
     background-position: center; /* Adjust as needed */
